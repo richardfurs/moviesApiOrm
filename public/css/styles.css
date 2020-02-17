@@ -1,0 +1,18 @@
+.search {
+    margin-bottom: 35px;
+}
+
+tr:nth-child(even) {
+    background: #CCC;
+}
+tr:nth-child(odd) {
+    background: #FFF;
+}
+
+.found {
+     margin-top: 20px;
+ }
+
+table {
+    margin-top: 15px;
+}
